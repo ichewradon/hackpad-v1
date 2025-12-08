@@ -1,14 +1,14 @@
-# ![Project Names](/assets/logos/projectname.svg)
+# ![Project Name](/assets/logos/projectname.svg)
 
-My macropad for 3D Modelling with 4x3 keys, 1 rotary encoder.
+My macropad for 3D Modelling with 12 keys in a 4x4 cross, 1 rotary encoder.
 
 ## Features:
-- 12 SK6812 MINI-E LEDs for dynamic LED effects
+- 11 SK6812 MINI-E LEDs for dynamic LED effects
   - Rainbow / Custom Gradient
   - Music Reactive
   - Static Colour
 - 1 EC11 Rotary Encoder to control volume with a custom printed dial
-- 12 Individually Addressable Keys
+- 12 Individually Addressable Keys in a 4x4 cross
 - [KMK Firmware](https://github.com/kmkfw/kmk_firmware) to allow for web-app control and memory after restart
 
 ## Overview
