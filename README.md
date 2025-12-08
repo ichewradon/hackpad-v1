@@ -1,6 +1,6 @@
 # ![Project Name](/assets/logos/projectname.svg)
 
-My macropad for 3D Modelling with 12 keys in a 4x4 cross, 1 rotary encoder.
+My macropad for 3D Modelling with 12 keys in a 4x4 cross, 1 rotary encoder and a LED backlight.
 
 ## Features:
 - 11 SK6812 MINI-E LEDs for dynamic LED effects
