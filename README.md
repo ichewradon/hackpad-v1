@@ -31,7 +31,7 @@ Diffuser:
 
 ## PCB (Printed Circuit Board)
 
-Here's my PCB. It was made in KiCad. The silkscreen was imported from separate vectors that are in /assets/logos.
+Here's my PCB. It was made in KiCad. The silkscreen was imported from separate vectors.
 
 Schematic:
 
